@@ -1,3 +1,3 @@
 # PGA
 The code of "3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation" ICCV 2025
-We are pleased to announce that our code is expected to be released next month. This will be the journal version featuring extended functionalities. Stay tuned!
+Since we updated the implementation and expanded the paper to a journal version, please refer to the code at https://github.com/TRLou/R-PGA.
